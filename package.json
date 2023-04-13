@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.236.129.45:8081/repository/ebay-npm-repo/"
+    "registry": "http://54.241.210.37:8081/repository/paypal-nodejs/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
@@ -22,11 +22,11 @@
     "sonarqube-scanner": "^2.7.0"
   },
   "engines": {
-    "node": "v10.6.0"
+    "node": "v19.8.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/Agape-technology/nodejs-application"
   },
   "keywords": [
     "node",
